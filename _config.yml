@@ -27,7 +27,7 @@ twitter_username: franz_nowak
 github_username: franznowak
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
