@@ -8,7 +8,7 @@ layout: home
 <img style="float: left; padding-right:20px; padding-top:5px"  width="201" height="268" src="assets/images/portrait.png">
 
 ## About me
-I am a second year MSc student at [ETH Zürich](https://ethz.ch/), majoring in Machine Intelligence and focusing on Natural Language Processing. Before that I did my undergraduate in Computer Science at [Cambridge](https://www.cam.ac.uk/) where I did my final project on machine learning applied to database indexing, followed by two years working in the software industry.
+I am a second year MSc student at [ETH Zürich](https://ethz.ch/), majoring in Machine Intelligence and focusing on Natural Language Processing. Before that, I completed my undergraduate in Computer Science at [Cambridge](https://www.cam.ac.uk/) where I did my final project on machine learning applied to database indexing, followed by two years working in the software industry.
 
 My main interests include Linguistics, Natural Language Generation, Machine Translation, and AI Safety.
 
