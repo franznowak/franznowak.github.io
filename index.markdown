@@ -17,18 +17,18 @@ You can find my current CV [here](assets/documents/CV_2022.pdf).
 
 ## Recent projects
 
-**Overcoming Theoretical Limitations of Soft Attention** [[github](https://github.com/giacomocamposampiero/palindrome-transformer)]
-* Found explicit encoding of a regular language and a context free, non-regular language using Transformer soft attention.
+**Overcoming Theoretical Limitations of Soft Attention** [[github](https://github.com/giacomocamposampiero/palindrome-transformer)][[pdf](assets/documents/AFLT_Project_Report.pdf)]
+* Found explicit encoding of a regular language and a context free, non-regular language using Transformer soft attention. ([AFLT](https://rycolab.io/classes/aflt-s22/) course project, Aug 2022)
 
-**Creating a dataset for Logical Fallacy Detection** [[github](https://github.com/franznowak/kialoparser)]
-* Created a dataset and trained a transformer to classify statements as logically valid or fallacious with an accuracy of 89% on the test set.
+**Creating a dataset for Logical Fallacy Detection** [[github](https://github.com/franznowak/kialoparser)][[pdf](assets/documents/CSNLP_Project_Report.pdf)][[poster](assets/documents/CSNLP_Poster.pdf)]
+* Created a dataset and trained a transformer to classify statements as logically valid or fallacious with an accuracy of 89% on the test set. ([CSNLP](http://www.mrinmaya.io/teaching_csnlp22) course project, Jul 2022)
 
-**A Comparison of Techniques for Sentiment Classification** [[github](https://github.com/franznowak/twitter-sentiment-classification)]
-* Evaluated a range of models for sentiment classification of tweets showing that transformer-based architectures (BERT) outperform standard classification algorithms.
+**A Comparison of Techniques for Sentiment Classification** [[github](https://github.com/franznowak/twitter-sentiment-classification)][[pdf](assets/documents/CIL_Report.pdf)]
+* Evaluated a range of models for sentiment classification, showing that transformer-based architectures (BERT) outperform standard classification algorithms. ([CIL](http://da.inf.ethz.ch/teaching/2022/CIL/) course project, Jul 2022)
 
 ## Publications
 
-<ins>T. Wagner</ins>, **F. Nowak**, L. Blacha and M. Lehmann, *Electron Holographic Measurement of the Three-Dimensional Electrostatic Potential Distribution of a Flat Capacitor*, 19th International Microscopy Conference IMC19 - Proceedings p.500, Sydney (Australia), 2018 [[pdf](assets/documents/abstract_3d_capacitor.pdf)]
+<ins>T. Wagner</ins>, **F. Nowak**, L. Blacha and M. Lehmann, *Electron Holographic Measurement of the Three-Dimensional Electrostatic Potential Distribution of a Flat Capacitor*, 19th International Microscopy Conference IMC19 - Proceedings p.500, Sydney (Australia), 2018 [[github](https://github.com/franznowak/vbp)][[pdf](assets/documents/abstract_3d_capacitor.pdf)]
 
 ## Other activities
 
