@@ -20,7 +20,7 @@
 
 title: Franz Nowak
 description: >- # this means to ignore newlines until "baseurl:"
-  Computer Scientist interested NLP, Semantics, and Machine Learning.
+  Computer Scientist at ETH Zurich, interested in NLP, Semantics, and Machine Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: franz_nowak
