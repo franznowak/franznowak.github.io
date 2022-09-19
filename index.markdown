@@ -28,7 +28,7 @@ You can find my current CV [here](assets/documents/CV_2022.pdf).
 
 ## Publications
 
-<ins>T. Wagner</ins>, F. Nowak, L. Blacha and M. Lehmann, *Electron Holographic Measurement of the Three-Dimensional Electrostatic Potential Distribution of a Flat Capacitor*, 19th International Microscopy Conference IMC19 - Proceedings p.500, Sydney (Australia), 2018 [[pdf](assets/documents/abstract_3d_capacitor.pdf)]
+<ins>T. Wagner</ins>, **F. Nowak**, L. Blacha and M. Lehmann, *Electron Holographic Measurement of the Three-Dimensional Electrostatic Potential Distribution of a Flat Capacitor*, 19th International Microscopy Conference IMC19 - Proceedings p.500, Sydney (Australia), 2018 [[pdf](assets/documents/abstract_3d_capacitor.pdf)]
 
 ## Other activities
 
