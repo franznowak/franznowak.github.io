@@ -18,13 +18,13 @@ You can find my current CV [here](assets/documents/CV_2022.pdf).
 ## Recent projects
 
 **Regularization for Predictive Coding Networks** [[github](https://github.com/andreakiro/regularization-pc)][[pdf](assets/documents/DL_Project_Report.pdf)]
-* Investigating novel regularization techniques for neural networks using predictive coding instead of backpropagation for learning. ([DL](http://da.inf.ethz.ch/teaching/2022/DeepLearning/) course project, Jan 2023)
+* Investigating novel regularization techniques for neural networks using predictive coding instead of backpropagation for learning. ([Deep Learning](http://da.inf.ethz.ch/teaching/2022/DeepLearning/) course project, Jan 2023)
 
 **Overcoming Theoretical Limitations of Soft Attention** [[github](https://github.com/giacomocamposampiero/palindrome-transformer)][[pdf](assets/documents/AFLT_Project_Report.pdf)]
-* Found explicit encoding of a regular language and a context free, non-regular language using Transformer soft attention. ([AFLT](https://rycolab.io/classes/aflt-s22/) course project, Aug 2022)
+* Found explicit encoding of a regular language and a context free, non-regular language using Transformer soft attention. ([Advanced Formal Language Theory](https://rycolab.io/classes/aflt-s22/) course project, Aug 2022)
 
 **Creating a dataset for Logical Fallacy Detection** [[github](https://github.com/franznowak/kialoparser)][[pdf](assets/documents/CSNLP_Project_Report.pdf)][[poster](assets/documents/CSNLP_Poster.pdf)]
-* Created a dataset and trained a transformer to classify statements as logically valid or fallacious with an accuracy of 89% on the test set. ([CSNLP](http://www.mrinmaya.io/teaching_csnlp22) course project, Jul 2022)
+* Created a dataset and trained a transformer to classify statements as logically valid or fallacious with an accuracy of 89% on the test set. ([Computational Semantics for NLP](http://www.mrinmaya.io/teaching_csnlp22) course project, Jul 2022)
 
 
 ## Teaching
