@@ -20,7 +20,7 @@ You can find my current CV [here](assets/documents/CV_2022.pdf).
 **Regularization for Predictive Coding Networks** [[github](https://github.com/andreakiro/regularization-pc)][[pdf](assets/documents/Predictive_Coding.pdf)]
 * Investigating novel regularization techniques for neural networks using predictive coding instead of backpropagation for learning. ([Deep Learning](http://da.inf.ethz.ch/teaching/2022/DeepLearning/) course project, Jan 2023)
 
-**Overcoming Theoretical Limitations of Soft Attention** [[github](https://github.com/giacomocamposampiero/palindrome-transformer)][[pdf](assets/documents/Palindrome_Transformers.pdf)]
+**Overcoming Theoretical Limitations of Soft Attention** [[github](https://github.com/giacomocamposampiero/palindrome-transformer)][[pdf](assets/documents/Palindrome_Transformer.pdf)]
 * Found explicit encoding of a regular language and a context free, non-regular language using Transformer soft attention. ([Advanced Formal Language Theory](https://rycolab.io/classes/aflt-s22/) course project, Aug 2022)
 
 **Distinguishing Logical Fallacies from Valid Arguments** [[github](https://github.com/franznowak/kialoparser)][[pdf](assets/documents/Fallacy_Detection.pdf)][[poster](assets/documents/CSNLP_Poster.pdf)]
