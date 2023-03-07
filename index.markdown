@@ -46,4 +46,4 @@ You can find my current CV [here](assets/documents/CV_2022.pdf).
 
 ## Other activities
 
-Outside of CS, I also play [Jazz piano](https://www.youtube.com/channel/UCWHp49BRdifkD31RERdBD_A). I also enjoy chess and free diving.
+Outside of CS, I also play [Jazz piano](https://www.instagram.com/franznowakjazz). I also enjoy chess and free diving.
