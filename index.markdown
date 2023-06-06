@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img style="float: left; padding-right:20px; padding-top:5px"  width="201" height="268" src="assets/images/portrait.png">
+<img style="float: left; padding-right:20px; padding-top:5px"  width="201" height="268" src="assets/images/portrait.jpg">
 
 ## About me
 I am a second year MSc student at [ETH Zürich](https://ethz.ch/), majoring in Machine Intelligence and focusing on Natural Language Processing. Before that, I completed my undergraduate in Computer Science at [Cambridge](https://www.cam.ac.uk/) where I did my final project on machine learning applied to database indexing, followed by two years working in the software industry.
@@ -14,6 +14,9 @@ My main interests include Linguistics, Natural Language Generation, Machine Tran
 
 You can find my current CV [here](assets/documents/CV_2022.pdf).
 
+## Publications
+
+**Franz Nowak** and Ryan Cotterell. 2023. [A Fast Algorithm for Computing Prefix Probabilities](https://arxiv.org/abs/2306.02303). In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL), Toronto, Canada.
 
 ## Recent projects
 
@@ -29,20 +32,15 @@ You can find my current CV [here](assets/documents/CV_2022.pdf).
 
 ## Teaching
 
-**Summer Semester 2023**
-* Teaching Assistant, [Advanced Formal Language Theory](https://rycolab.io/classes/aflt-s23/)
+**[Advanced Formal Language Theory](https://rycolab.io/classes/aflt-s23/)**
+* Teaching Assistant, Summer Semester 2023
 
-**Winter Semester 2022**
-* Teaching Assistant, [Natural Language Processing](https://rycolab.io/classes/intro-nlp-f22/)
+**[Natural Language Processing](https://rycolab.io/classes/intro-nlp-f22/)**
+* Teaching Assistant, Autumn Semester 2022
 
-**Summer Semester 2022**
-* Teaching Assistant, [Advanced Machine Learning](https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=EN&sap-ui-language=EN#/details/2021/004/E/51111470)
+**[Advanced Machine Learning](https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=EN&sap-ui-language=EN#/details/2021/004/E/51111470)**
+* Teaching Assistant, Summer Semester 2022
 
-
-
-## Publications
-
-T. Wagner, **F. Nowak**, L. Blacha and M. Lehmann, *Electron Holographic Measurement of the Three-Dimensional Electrostatic Potential Distribution of a Flat Capacitor*, 19th International Microscopy Conference IMC19 - Proceedings p.500, Sydney (Australia), 2018 [[github](https://github.com/franznowak/vbp)][[pdf](assets/documents/abstract_3d_capacitor.pdf)]
 
 ## Other activities
 
