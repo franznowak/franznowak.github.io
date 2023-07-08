@@ -10,20 +10,25 @@ layout: home
 ## About me
 I am a second year MSc student at [<ins>ETH Zürich</ins>](https://ethz.ch/), majoring in Machine Intelligence and focusing on Natural Language Processing. Before that, I completed my undergraduate in Computer Science at [<ins>Cambridge</ins>](https://www.cam.ac.uk/) where I did my final project on machine learning applied to database indexing, followed by two years working in the software industry.
 
-My main interests include Linguistics, Natural Language Generation, Machine Translation, and AI Safety.
-
-You can find my current CV [<ins>here</ins>](assets/documents/CV_2022.pdf).
+My main focus currently lies in formal languages and in investigation the theoretical capabilities of neural networks. Aside from that I am also interested in machine translation, natural language generation, and biologically inspired neural network architectures (like predictive coding).
 
 
 ## Publications
 
-### [<ins>Fast Algorithm for Computing Prefix Probabilities</ins>](https://arxiv.org/abs/2306.02303)
+### [<ins>A Fast Algorithm for Computing Prefix Probabilities</ins>](https://arxiv.org/abs/2306.02303)
 
-To be published in the Proceedings of ACL 2023
+To be published in the Proceedings of ACL 2023.
 
 This paper proposes a new fast algorithm for computing prefix probabilities under a probabilistic context-free grammar (PCFG).
 
-Recommended citation: Franz Nowak and Ryan Cotterell. 2023. A Fast Algorithm for Computing Prefix Probabilities. In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)*, Toronto, Canada.
+Recommended citation: **Franz Nowak** and Ryan Cotterell. 2023. A Fast Algorithm for Computing Prefix Probabilities. In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)*, Toronto, Canada. [[github](https://github.com/rycolab/prefix-parsing)]
+
+### [<ins> Electron Holographic Measurement of the Three-Dimensional Electrostatic Potential Distribution of a Flat Capacitor </ins>](assets/documents/abstract_3d_capacitor.pdf)
+
+I developed a software tool in Java for simulating 3-D electron holography experiments, saving many hours usually spent calibrating the experiments on expensive machines.
+
+Recommended citation: Tolga Wagner, **Franz Nowak**, Lukas Blacha and Michael Lehmann. 2018. Electron Holographic Measurement of the Three-Dimensional Electrostatic Potential Distribution of a Flat Capacitor, 19th International Microscopy Congress (IMC19), Sydney, Australia. [[github](https://github.com/franznowak/vbp)]
+
 
 ## Recent projects
 
