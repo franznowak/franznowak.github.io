@@ -10,7 +10,7 @@ layout: home
 ## About me
 I am a second year MSc student at [<ins>ETH Zürich</ins>](https://ethz.ch/), majoring in Machine Intelligence and focusing on Natural Language Processing. Before that, I completed my undergraduate in Computer Science at [<ins>Cambridge</ins>](https://www.cam.ac.uk/) where I did my final project on machine learning applied to database indexing, followed by two years working in the software industry.
 
-My main focus currently lies in formal languages and in investigation the theoretical capabilities of neural networks. Aside from that I am also interested in machine translation, natural language generation, and biologically inspired neural network architectures (like predictive coding).
+My main focus currently lies in formal languages and in investigation the theoretical capabilities of neural networks. Aside from that I am also interested in machine translation, natural language generation, and biologically inspired machine learning (such as [predictive coding](https://arxiv.org/abs/2202.09467)).
 
 
 ## Publications
