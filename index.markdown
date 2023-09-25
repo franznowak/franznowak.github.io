@@ -47,17 +47,21 @@ Created a dataset and trained a transformer to classify statements as logically 
 
 ## Teaching
 
+### [<ins>Natural Language Processing</ins>](https://rycolab.io/classes/intro-nlp-f23/)
+
+**Head teaching assistant**. Masters level course, ETH Zürich, autumn semester 2022.
+
 ### [<ins>Advanced Formal Language Theory</ins>](https://rycolab.io/classes/aflt-s23/)
 
-Teaching assistant. Masters course, ETH Zürich, summer semester 2023
+Teaching assistant. Masters level course, ETH Zürich, summer semester 2023.
 
 ### [<ins>Natural Language Processing</ins>](https://rycolab.io/classes/intro-nlp-f22/)
 
-Teaching assistant. Masters course, ETH Zürich, autumn semester 2022
+Teaching assistant. Masters level course, ETH Zürich, autumn semester 2022.
 
 ### [<ins>Advanced Machine Learning</ins>](https://studentservices.uzh.ch/uzh/anonym/vvz/?sap-language=EN&sap-ui-language=EN#/details/2021/004/E/51111470)
 
-Teaching Assistant. Masters course, UZH, summer semester 2022
+Teaching Assistant. Masters level course, UZH, summer semester 2022.
 
 
 ## Other activities
