@@ -112,7 +112,10 @@ author:
   github           : "franznowak"
   linkedin         : "f-nowak"
   twitter          : "franz_nowak"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=IgJ4o30AAAAJ"
+  links:
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?hl=en&user=IgJ4o30AAAAJ"
 
 # Site Footer
 footer:
