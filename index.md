@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Hi there!
-I am a second-year Computer Science MSc student at ETH Zürich working at [rycolab](https://rycolab.io/) with [Ryan Cotterell](https://rycolab.io/authors/ryan/). Before, I did my undergraduate in Computer Science at Cambridge, where I did my thesis on machine learning for database indexing, followed by two years working in the software industry.
+I am a second-year Computer Science MSc student at ETH Zürich working at [rycolab](https://rycolab.io/) with [Ryan Cotterell](https://rycolab.io/authors/ryan/). Before, I did my undergraduate in Computer Science at Cambridge where I wrote my thesis on machine learning for database indexing, followed by two years working in the software industry.
 
 Interests:
 * Formal languages and [parsing](https://aclanthology.org/2023.acl-short.6/) 
