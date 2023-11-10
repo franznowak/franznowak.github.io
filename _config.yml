@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Franz Nowak"
-  avatar           : "/assets/images/portrait.jpg"
+  avatar           : "/assets/images/portrait.png"
   bio              : "Computer Scientist at ETH Zurich."
   location         : "Zurich, Switzerland"
   email            : "fnowak@ethz.ch"
@@ -114,7 +114,7 @@ author:
   twitter          : "franz_nowak"
   links:
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
+      icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=IgJ4o30AAAAJ"
 
 # Site Footer
