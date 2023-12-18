@@ -20,3 +20,9 @@ Interests:
 ## Other activities
 
 Outside of CS, I like to play [Jazz piano](https://www.instagram.com/franznowakjazz). I also enjoy chess and free diving.
+
+## Recent Publications
+
+**Franz Nowak**, Anej Svete, Li Du, and Ryan Cotterell. 2023. [On the Representational Capacity of Recurrent Neural Language Models](https://aclanthology.org/2023.emnlp-main.434/). In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), Singapore.
+
+**Franz Nowak** and Ryan Cotterell. 2023. [A Fast Algorithm for Computing Prefix Probabilities](https://aclanthology.org/2023.acl-short.6/). In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)*, Toronto, Canada.

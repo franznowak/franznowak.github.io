@@ -9,7 +9,7 @@ author_profile: true
 
 [Natural Language Processing](https://rycolab.io/classes/intro-nlp-f23/)
 
-Head teaching assistant. Masters level course, ETH Zürich, autumn semester 2023.
+**Head teaching assistant**. Masters level course, ETH Zürich, autumn semester 2023.
 
 [Advanced Formal Language Theory](https://rycolab.io/classes/aflt-s23/)
 
