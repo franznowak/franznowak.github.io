@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Hi there!
-I am a second-year Computer Science MSc student at ETH Zürich working at [rycolab](https://rycolab.io/) with [Ryan Cotterell](https://rycolab.io/authors/ryan/). Before, I did my undergraduate in Computer Science at Cambridge where I wrote my thesis on machine learning for database indexing, followed by two years working in the software industry.
+I am a first-year PhD student in Natural Language Processing at ETH Zürich, working at [rycolab](https://rycolab.io/) with [Ryan Cotterell](https://rycolab.io/authors/ryan/). Before, I did my undergraduate in Computer Science at Cambridge followed by two years working in the software industry, before returing to ETH for a masters degree.
 
 Interests:
 * Formal languages and [parsing](https://aclanthology.org/2023.acl-short.6/) 
@@ -21,7 +21,7 @@ Interests:
 
 Outside of CS, I like to play [Jazz piano](https://www.instagram.com/franznowakjazz). I also enjoy chess and free diving.
 
-## Recent Publications
+## Selected Publications
 
 **Franz Nowak**, Anej Svete, Li Du, and Ryan Cotterell. 2023. [On the Representational Capacity of Recurrent Neural Language Models](https://aclanthology.org/2023.emnlp-main.434/). In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), Singapore.
 
