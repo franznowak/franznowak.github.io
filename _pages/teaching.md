@@ -5,6 +5,12 @@ title: "Teaching"
 author_profile: true
 ---
 
+## 2024
+
+[Advanced Formal Language Theory](https://rycolab.io/classes/aflt-s24/)
+
+Teaching assistant. Masters level course, ETH Zürich, summer semester 2024.
+
 ## 2023
 
 [Natural Language Processing](https://rycolab.io/classes/intro-nlp-f23/)
