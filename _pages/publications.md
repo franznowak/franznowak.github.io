@@ -5,7 +5,7 @@ title: "Publications"
 author_profile: true
 ---
 
-#### On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning (upcoming)
+#### [On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning](https://arxiv.org/abs/2406.14197)
 
 **Franz Nowak**\*, Anej Svete\*, Alexandra Butoi, and Ryan Cotterell. 2024. On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning. In *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, Bangkok, Thailand. 
 

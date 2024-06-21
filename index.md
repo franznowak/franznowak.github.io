@@ -18,11 +18,9 @@ In my research I mainly focus on using formal languages and computation theory t
 
 Outside of CS, I like to play [Jazz piano](https://www.instagram.com/franznowakjazz). I also enjoy chess and free diving.
 
-## Upcoming Papers
-
-**Franz Nowak**\*, Anej Svete\*, Alexandra Butoi, and Ryan Cotterell. 2024. On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning. In *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Bangkok, Thailand. Association for Computational Linguistics.*
-
 ## Selected Publications
+
+**Franz Nowak**\*, Anej Svete\*, Alexandra Butoi, and Ryan Cotterell. 2024. [On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning](https://arxiv.org/abs/2406.14197). In *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Bangkok, Thailand. Association for Computational Linguistics.*
 
 Anej Svete\*, **Franz Nowak**\*, Anisha Mohamed Sahabdeen, and Ryan Cotterell. 2024. [Lower bounds on the expressivity of recurrent neural language models](https://arxiv.org/abs/2405.19222). In *Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics.*
 
