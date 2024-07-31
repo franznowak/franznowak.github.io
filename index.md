@@ -21,12 +21,44 @@ In my research I mainly focus on using formal languages and computation theory t
 
 Outside of CS, I like to play [Jazz piano](https://www.instagram.com/franznowakjazz). I also enjoy chess and free diving.
 
-## Selected Publications
+## Recent Publications
 
-**Franz Nowak**\*, Anej Svete\*, Alexandra Butoi, and Ryan Cotterell. 2024. [On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning](https://arxiv.org/abs/2406.14197). In *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), Bangkok, Thailand. Association for Computational Linguistics.*
+### On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning
+*ACL 2024*\\
+**Franz Nowak**\*, Anej Svete\*, Alexandra Butoi, and Ryan Cotterell
 
-Anej Svete\*, **Franz Nowak**\*, Anisha Mohamed Sahabdeen, and Ryan Cotterell. 2024. [Lower bounds on the expressivity of recurrent neural language models](https://arxiv.org/abs/2405.19222). In *Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics.*
+[![Chain of thought LLMs](assets/images/CoT.png){: width="75%"}](https://arxiv.org/abs/2406.14197)
 
-**Franz Nowak**, Anej Svete, Li Du, and Ryan Cotterell. 2023. [On the Representational Capacity of Recurrent Neural Language Models](https://arxiv.org/abs/2310.12942). In *Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), Singapore.*
+Large Language Models (LLM) have been shown to be better at logical reasoning when allowed to output additional tokens. This is known as Chain-of-Thought (CoT) reasoning. We investigate formally how much more powerful Transformer and RNN language models get when doing CoT reasoning compared to real-time generation. We find that Transformers and RNNs with fixed precision can simulate probabilistic FSAs, while with unbounded precision they are able to simulate probabilistic Turing machines.
 
-**Franz Nowak** and Ryan Cotterell. 2023. [A Fast Algorithm for Computing Prefix Probabilities](https://arxiv.org/abs/2306.02303). In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)*, Toronto, Canada.
+
+### Lower Bounds on the Expressivity of Recurrent Neural Language Models
+*NAACL 2024*\\
+Anej Svete\*, **Franz Nowak**\*, Anisha Mohamed Sahabdeen, and Ryan Cotterell
+
+[![RNN simulation of PFSAs](assets/images/PFSA.png){: width="75%"}](https://arxiv.org/abs/2405.19222)
+
+Recurrent Neural Networks (RNNs) are more expressive than Transformers as they can keep state over arbitrarily long sequences.
+This means RNNs, unlike Transformers, can simulate non-deterministic probabilistic finite-state automata (PFSAs) in real time.
+We show this by construction, providing the weights required for PFSAs to be encoded in an RNN language model.
+
+
+### On the Representational Capacity of Recurrent Neural Language Models
+*EMNLP 2023*\\
+**Franz Nowak**, Anej Svete, Li Du, and Ryan Cotterell
+
+[![2PDA simulating a PTM](assets/images/2PDA.png){: width="75%"}](https://arxiv.org/abs/2310.12942)
+
+RNN language models are starting to make a comeback in NLP, showing performance equaling that of Transformers. In this work, we investigate the types of disstributions over languages that can be expressed by language models based on RNNs. We find that with empty outputs, RNNs can simulate a certain type of probabilistic Turing machine, while without, their expressivity is upper bounded by real-time probabilistic Turing machines.
+
+
+
+### A Fast Algorithm for Computing Prefix Probabilities
+*ACL 2023*\\
+**Franz Nowak** and Ryan Cotterell
+
+[![PCFG Parsing](assets/images/PCFG.png){: width="75%"}](https://arxiv.org/abs/2306.02303)
+
+The first language models ever devised were based on prefix-parsing Probabilistic Context-Free Grammars (PCFGs). 
+The classic algorithm for this task is based on the CKY-Algorithm. However, it is not optimally efficient.
+This paper proposes a speedup of this classic algorithm, resulting in better asymptotic complexity in terms of the size of the grammar.
