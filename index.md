@@ -38,16 +38,13 @@ Recurrent Neural Networks (RNNs) are more expressive than Transformers as they c
 This means RNNs, unlike Transformers, can simulate non-deterministic probabilistic finite-state automata (PFSAs) in real time.
 We show this by construction, providing the weights required for PFSAs to be encoded in an RNN language model.
 
-
 ### On the Representational Capacity of Recurrent Neural Language Models
 *EMNLP 2023*\\
 **Franz Nowak**, Anej Svete, Li Du, and Ryan Cotterell
 
 [![2PDA simulating a PTM](assets/images/2PDA.png){: width="75%"}](https://arxiv.org/abs/2310.12942)
 
-RNN language models are starting to make a comeback in NLP, showing performance equaling that of Transformers. In this work, we investigate the types of disstributions over languages that can be expressed by language models based on RNNs. We find that with empty outputs, RNNs can simulate a certain type of probabilistic Turing machine, while without, their expressivity is upper bounded by real-time probabilistic Turing machines.
-
-
+RNN language models are starting to make a comeback in NLP, showing performance equaling that of Transformers. In this work, we investigate the types of language distributions that can be expressed by RNN language models. We find that when allowed additional empty tokens, RNNs can simulate a certain type of probabilistic Turing machine, while without, their expressivity is upper bounded by real-time probabilistic Turing machines.
 
 ### A Fast Algorithm for Computing Prefix Probabilities
 *ACL 2023*\\
@@ -55,6 +52,6 @@ RNN language models are starting to make a comeback in NLP, showing performance 
 
 [![PCFG Parsing](assets/images/PCFG.png){: width="75%"}](https://arxiv.org/abs/2306.02303)
 
-The first language models ever devised were based on prefix-parsing Probabilistic Context-Free Grammars (PCFGs). 
-The classic algorithm for this task is based on the CKY-Algorithm. However, it is not optimally efficient.
+The first language models were based on prefix-parsing Probabilistic Context-Free Grammars (PCFGs). 
+The classic algorithm for this task is based on the famous CKY-Algorithm. However, it is not optimally efficient with respect to the grammar size.
 This paper proposes a speedup of this classic algorithm, resulting in better asymptotic complexity in terms of the size of the grammar.
