@@ -9,7 +9,7 @@ author_profile: true
 
 **Franz Nowak**\*, Anej Svete\*, Alexandra Butoi, and Ryan Cotterell. 2024. On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning. In *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, Bangkok, Thailand. 
 
-#### [What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages](https://arxiv.org/pdf/2405.19222)
+#### [What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages](https://arxiv.org/abs/2406.04289)
 
 Nadav Borenstein, Anej Svete, Robin Shing Moon Chan, Josef Valvoda, **Franz Nowak**, Isabelle Augenstein, Eleanor Chodroff, and Ryan Cotterell. 2024. What languages are easy to language-model? a perspective from learning probabilistic regular languages. In *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*, Bangkok, Thailand.
 
