@@ -14,12 +14,8 @@ I am a first-year PhD student in Natural Language Processing at ETH Zürich, wor
 In my research I mainly focus on using formal languages and computation theory to explore the capabilities of different LLM architectures.
 
 ## Interests
-* Formal language theory and its application to neural language modeling (e.g. showing that [transformers can recognize palindromes](/assets/documents/Palindrome_Transformer.pdf))
+* Formal language theory applied to neural LMs (e.g. showing that [transformers can recognize palindromes](/assets/documents/Palindrome_Transformer.pdf))
 * Biologically inspired machine learning (like [predictive coding](/assets/documents/Predictive_Coding.pdf))
-
-## Other activities
-
-Outside of CS, I like to play [Jazz piano](https://www.instagram.com/franznowakjazz). I also enjoy chess and free diving.
 
 ## Recent Publications
 
