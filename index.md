@@ -17,6 +17,11 @@ In my research I mainly focus on using formal languages and computation theory t
 * Formal language theory applied to neural LMs (e.g. showing that [transformers can recognize palindromes](/assets/documents/Palindrome_Transformer.pdf))
 * Biologically inspired machine learning (like [predictive coding](/assets/documents/Predictive_Coding.pdf))
 
+## News
+* *Aug 2024* - [ACL 2024 Tutorial](https://acl2024.ivia.ch) on language model expressivity
+* *May 2024* - [Two](https://arxiv.org/abs/2406.14197) [papers](https://arxiv.org/abs/2406.04289) accepted at ACL 2024 in Bangkok
+* *Mar 2024* - [Paper](https://aclanthology.org/2024.naacl-long.380/) accepted at NAACL 2024 in Mexico City
+
 ## Recent Publications
 
 ### On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning
