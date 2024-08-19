@@ -13,6 +13,6 @@ Investigating novel regularization techniques for neural networks using predicti
 
 Found explicit encoding of a regular language and a context free, non-regular language using Transformer soft attention. ([Advanced Formal Language Theory](https://rycolab.io/classes/aflt-s22/) course project, Aug 2022)
 
-[Distinguishing Logical Fallacies from Valid Arguments](/assets/documents/Fallacy_Detection.pdf) [[github](https://github.com/franznowak/kialoparser)][[poster](assets/documents/CSNLP_Poster.pdf)]
+[Distinguishing Logical Fallacies from Valid Arguments](/assets/documents/Fallacy_Detection.pdf) [[github](https://github.com/franznowak/kialoparser)][[poster](/assets/documents/CSNLP_Poster.pdf)]
 
 Created a dataset and trained a transformer to classify statements as logically valid or fallacious with an accuracy of 89% on the test set. ([Computational Semantics for NLP](http://www.mrinmaya.io/teaching_csnlp22) course project, Jul 2022)
