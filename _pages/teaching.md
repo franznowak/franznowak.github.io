@@ -7,6 +7,10 @@ author_profile: true
 
 ## 2024
 
+[Natural Language Processing](https://rycolab.io/classes/intro-nlp-f24/)
+
+**Head teaching assistant**, supervising 11 teaching assistants and over 300 students. Masters level course, ETH Zürich, autumn semester 2023.
+
 [Advanced Formal Language Theory](https://rycolab.io/classes/aflt-s24/)
 
 Teaching assistant. Masters level course, ETH Zürich, summer semester 2024.
