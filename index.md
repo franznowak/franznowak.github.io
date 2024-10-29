@@ -18,12 +18,13 @@ In my research I mainly focus on using formal languages and computation theory t
 * Biologically inspired machine learning (like [predictive coding](/assets/documents/Predictive_Coding.pdf))
 
 ## News
+* *Oct 2024* - Two papers accepted at EMNLP 2024 in Miami: [Prediciting Surprisal curves of Discourse](https://arxiv.org/abs/2410.16062) and A new Algorithm for Learning Deterministic FSAs
 * *Sep 2024* - [AICoffeeBreak interview](https://youtu.be/MMIJKKNxvec) about Turing completeness of neural language models
 * *Aug 2024* - [ACL 2024 Tutorial](https://acl2024.ivia.ch) on neural language model expressivity
 * *May 2024* - Two papers accepted at ACL 2024 in Bangkok: [Expressivity of CoT Reasoning](https://arxiv.org/abs/2406.14197) and [Learnability of Probabilistic Languages](https://arxiv.org/abs/2406.04289)
 * *Mar 2024* - Paper accepted at NAACL 2024 in Mexico City: [Encoding PFSAs in RNNs](https://aclanthology.org/2024.naacl-long.380/) 
 
-## Recent Publications
+## Selected Publications
 
 ### On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning
 *ACL 2024*\\
