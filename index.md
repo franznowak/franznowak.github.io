@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 ## About
-I am a first-year PhD student in Natural Language Processing at ETH Zürich, working at [rycolab](https://rycolab.io/) with [Ryan Cotterell](https://rycolab.io/authors/ryan/). I did my undergraduate in Computer Science at Cambridge followed by two years working in the software industry, before returing to ETH for a masters degree and PhD.
+I am a PhD student of Computer Science and Natural Language Processing at ETH Zürich, working at [rycolab](https://rycolab.io/) with [Ryan Cotterell](https://rycolab.io/authors/ryan/). 
+I did my undergraduate in Computer Science at Cambridge followed by two years working in the software industry, before returing to ETH for a masters degree and PhD.
 
 In my research I mainly focus on using formal languages and computation theory to explore the capabilities of different LLM architectures.
 
