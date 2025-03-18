@@ -18,6 +18,9 @@ In my research I mainly focus on using formal languages and computation theory t
 * Formal language theory applied to neural LMs (e.g. showing that [transformers can recognize palindromes](/assets/documents/Palindrome_Transformer.pdf))
 * Biologically inspired machine learning (like [predictive coding](/assets/documents/Predictive_Coding.pdf))
 
+## Collaborations
+I am currently looking for motivated masters students who would like to work on formal expressivity of neural sequence models. If you are interested, send me an email!
+
 ## News
 * *Oct 2024* - Two papers accepted at EMNLP 2024 in Miami: [Prediciting Surprisal Contours in Long-form Discourse](https://aclanthology.org/2024.emnlp-main.1047/) and [An L* Algorithm for Deterministic Weighted Regular Languages](https://aclanthology.org/2024.emnlp-main.468.pdf)
 * *Sep 2024* - [AICoffeeBreak interview](https://youtu.be/MMIJKKNxvec) about Turing completeness of neural language models
