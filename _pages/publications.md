@@ -5,6 +5,10 @@ title: "Publications"
 author_profile: true
 ---
 
+[Bridging Expressivity and Scalability with Adaptive Unitary SSMs](https://arxiv.org/pdf/2507.05238) Arxiv Preprint. Arjun Karuvally, Franz Nowak, Anderson T Keller, Carmen Amo Alonso, Terrence J Sejnowski, Hava T Siegelmann. Under review at NeurIPS 2025.
+
+[The Harmonic Structure of Information Contours](https://arxiv.org/abs/2506.03902) ACL 2025. Eleftheria Tsipidi, Samuel Kiegeland, Franz Nowak, Tianyang Xu, Ethan Wilcox, Alex Warstadt, Ryan Cotterell, Mario Giulianelli. 
+
 [An L* Algorithm for Deterministic Weighted Regular Languages](https://aclanthology.org/2024.emnlp-main.468/) EMNLP 2024.\
 C. Pasti, T. Karagöz, F. Nowak, A. Svete, R. Boumasmoud, R. Cotterell
 
