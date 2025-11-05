@@ -22,6 +22,7 @@ In my research I mainly focus on using formal languages and computation theory t
 I am currently looking for motivated masters students who would like to work on formal expressivity of neural sequence models. If you are interested, send me an email!
 
 ## News
+* *Sep 2025* - Paper accepted at NeurIPS 2025: [Bridging Expressivity and Scalability with Adaptive Unitary SSMs](https://www.arxiv.org/abs/2507.05238)
 * *Jul 2025* - Tutorial talk at ICML 2025: [The Underlying Logic of Language Models: Structural Decomposition.](https://icml.cc/virtual/2025/51938)
 * *June 2025* - Paper accepted at ACL 2025 in Vienna: [The Harmonic Structure of Information Contours](https://arxiv.org/abs/2506.03902)
 * *Oct 2024* - Two papers accepted at EMNLP 2024 in Miami: [Prediciting Surprisal Contours in Long-form Discourse](https://aclanthology.org/2024.emnlp-main.1047/) and [An L* Algorithm for Deterministic Weighted Regular Languages](https://aclanthology.org/2024.emnlp-main.468.pdf)
