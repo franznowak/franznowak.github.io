@@ -29,11 +29,7 @@ I am currently looking for motivated masters students who would like to work on 
 * *Sep 2024* - [AICoffeeBreak interview](https://youtu.be/MMIJKKNxvec) about Turing completeness of neural language models
 * *Aug 2024* - [ACL 2024 Tutorial](https://acl2024.ivia.ch) on the Representational Capacity of Neural Language Models
 * *May 2024* - Two papers accepted at ACL 2024 in Bangkok: [On the Representational Capacity of Neural Language Models with Chain-of-Thought Reasoning](https://aclanthology.org/2024.acl-long.676/) and [What Languages are Easy to Language-Model?](https://aclanthology.org/2024.acl-long.807/)
-* *Mar 2024* - Paper accepted at NAACL 2024 in Mexico City: [Lower Bounds on the Expressivity of Recurrent Neural Language Models](https://aclanthology.org/2024.naacl-long.380/) 
-
-## Preprints
-
-* [Bridging Expressivity and Scalability with Adaptive Unitary SSMs](https://arxiv.org/pdf/2507.05238) Arxiv Preprint. Arjun Karuvally, Franz Nowak, Anderson T Keller, Carmen Amo Alonso, Terrence J Sejnowski, Hava T Siegelmann. 
+* *Mar 2024* - Paper accepted at NAACL 2024 in Mexico City: [Lower Bounds on the Expressivity of Recurrent Neural Language Models](https://aclanthology.org/2024.naacl-long.380/)
 
 ## Selected Publications
 
